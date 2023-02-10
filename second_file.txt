@@ -1,1 +1,2 @@
 # First line on second file
+# Second line on second file
